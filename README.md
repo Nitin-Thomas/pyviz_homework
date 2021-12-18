@@ -80,6 +80,12 @@ In this section, you can visualize the number of dwelling types per year in each
 
 ![dwelling_types_per_year](Images/dwelling_types_per_year.png)
 
+### Compare the Number of Dwelling Types in all Neighbourhoods
+
+In this section, you can visualize the number of dwelling types per year in every neighbourhood.
+
+![bar_chart_row](Images/bar_chart_row.png)
+
 ---
 
 ## Top Expensive Neighbourhood Tab
